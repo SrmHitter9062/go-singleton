@@ -1,5 +1,2 @@
-# go-testing
-go unit test
-
-
-# $ go test
+# go-singlton
+How singleton is used in golang
