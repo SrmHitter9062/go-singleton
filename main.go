@@ -1,7 +1,7 @@
 package  main
 
 import (
-	"./employee"
+	"github.com/SrmHitter9062/go-singleton/employee"
 	"fmt"
 )
 

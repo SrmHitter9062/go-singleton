@@ -1,7 +1,7 @@
 package employee
 
 import (
-	"../publisher"
+	"github.com/SrmHitter9062/go-singleton/publisher"
 	"encoding/json"
 	"fmt"
 )
